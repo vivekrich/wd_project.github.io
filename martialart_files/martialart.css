@@ -1,0 +1,122 @@
+.my-heading{
+    background-color: charteruse;
+    text-decoration: underline;
+  }
+  
+.emphasis{
+    font-style: italic;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  position: relative;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+/*h1 {
+  font-family: monospace; 
+  font-size:24px;
+  text-align: left;
+}
+
+
+h2 {
+  font-family: monospace; 
+  font-size: 20px;
+  text-align: center;
+} 
+*/
+
+body {
+  background-image:
+  url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 75%;
+}
+
+.kick {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  /*font-family: monospace; */
+  position: relative;
+  margin-top: 10px;
+}
+
+.kick:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.punch {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  /*font-family: monospace; */
+  position: relative;
+  margin-top: 10px;
+}
+
+.punch:hover {
+  background-color: #f5870a;
+  color: white;
+}
+
+.forward {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  /*font-family: monospace; */
+  position: relative;
+  margin-top: 10px;
+}
+
+.forward:hover {
+  background-color: #0a68f5;
+  color: white;
+}
+
+.backward {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  /*font-family: monospace; */
+  position: relative;
+  margin-top: 10px;
+}
+
+.backward:hover {
+  background-color: #2d0af5;
+  color: white;
+}
+
+.block {
+  border-radius: 8px;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  /* font-family: monospace; */
+  position: relative;
+  margin-top: 10px;
+
+}
+
+.block:hover {
+  background-color: #5e5c06;
+  color: white;
+}
+

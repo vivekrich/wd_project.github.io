@@ -1,0 +1,29 @@
+h1 {
+font-size: 250%; 
+}
+i1 {
+    font-size: 100%; 
+    }
+i {
+font-size: 150%;
+}
+img {
+width: 30%;
+}
+.division0 {
+  background: #d9d9d9; 
+  margin: 5%; 
+  padding: 2%;
+  text-align: center;
+}
+.division1 {
+  background: white;
+  margin: 5%;
+}
+.division2 {
+            text-align: left; 
+            margin-top: 0%;
+            margin-bottom: 0%;
+            margin-left: 21%;
+            margin-right: 21%;
+}
